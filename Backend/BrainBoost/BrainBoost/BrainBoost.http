@@ -1,0 +1,6 @@
+@BrainBoost_HostAddress = http://localhost:5239
+
+GET {{BrainBoost_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
