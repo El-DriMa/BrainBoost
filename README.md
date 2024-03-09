@@ -16,6 +16,10 @@ BrainBoost aims to address the issue of outdated learning methods in education b
 - Backend: MS SQL Server, .NET Core Web API 
 - Frontend: HTML, CSS, JavaScript, jQuery
 
+## Contributors:
+- https://github.com/nejlac
+- https://github.com/aminag03
+
 ## Future Development
 While our participation in the hackathon was cut short, our dedication to realizing the full potential of BrainBoost remains unwavering. We are resolute in our commitment to bringing our vision to fruition over time. 
 
