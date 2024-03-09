@@ -2,8 +2,8 @@
 
 namespace BrainBoost.Models.Domain
 {
-    [Table("User")]
-    public class User
+    [Table("Users")]
+    public class Users
     {
         public int Id { get; set; }
         public string FirstName { get; set; }    
@@ -11,6 +11,7 @@ namespace BrainBoost.Models.Domain
         public string Email { get; set; }
         public string Password { get; set; }
         public DateOnly BirthDate { get; set; }
+        public int TotalScore { get; set; }
         
         
     }
