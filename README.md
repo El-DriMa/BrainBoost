@@ -1,4 +1,4 @@
-# BrainBoost BEST Hackathon 2024
+# BrainBoost CONCEPT WEB APPLICATION BEST Hackathon 2024
 Welcome to BrainBoost, a project designed to revolutionize learning methods in education with a focus on artificial intelligence. Although our journey in the hackathon was cut short due to unforeseen circumstances, we are excited to present our vision and the progress we've made so far.
 
 ## Project Overview
